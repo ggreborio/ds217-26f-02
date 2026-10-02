@@ -1,0 +1,4 @@
+Cutoff: 160 mmHg
+Reason: a higher systolic cutoff will allow clinicians to reduce the amount of patients and increase quality of care
+P011
+P018

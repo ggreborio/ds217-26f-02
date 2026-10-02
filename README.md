@@ -2,7 +2,7 @@
 
 ## Project description
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+This project takes a .csv file of patient systolic data (including IDs and dates) and runs it through a series of checks in order to clean the data. Then it creates two file outputs: summary statistics and listing patients that qualify for follow up.
 
 ## Run
 
